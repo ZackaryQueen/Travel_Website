@@ -1,0 +1,77 @@
+body {
+  background-image: url("fijinight.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px;
+  font-size: 1.3em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+#nav {
+  background-color: black;
+}
+
+#fiji {
+  font-size: 1.5em;
+  font-family: 'Amatic SC', cursive;
+  color: orange;
+
+}
+
+#carouselExampleFade {
+  opacity: 1;
+  border: 1px solid orange;
+}
+
+
+.jumbotron {
+  background-color: black;
+  margin: auto;
+  color: orange;
+  opacity: .8;
+  font-size: 1.7em;
+  font-family: 'Amatic SC', cursive;
+}
+
+span {
+  font-size: 1.33em;
+}
+
+#border1, #border2, #border3, #border4 {
+  border: 3px solid orange;
+  opacity: 1;
+}
+
+h1 {
+  background-color: black;
+  opacity: .8;
+  color: orange;
+}
+
+.col {
+  background-color: black;
+  opacity: .9;
+  font-family: 'Amatic SC', cursive;
+}
+
+#footer {
+  background-color: black;
+  opacity: .8;
+}
+#footerlist {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   opacity: .8;
+   display: flex;
+   text-decoration: none;
+}
+
+#social1 {
+  padding-right: 30px;
+}
+
+#text {
+  color: orange;
+}
