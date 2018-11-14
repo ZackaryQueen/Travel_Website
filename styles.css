@@ -75,3 +75,9 @@ h1 {
 #text {
   color: orange;
 }
+
+h3 {
+  color: orange;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.8em;
+}
